@@ -15,7 +15,7 @@ function update --description "Ultimate Arch Update: pacman, AUR (w/ security sc
 
     # --- Trusted Packages ---
     # Add packages you have manually verified and trust completely.
-    set -l CONFIG_TRUSTED_PACKAGES betterbird-bin localsend-bin octopi
+    set -l CONFIG_TRUSTED_PACKAGES 
 
     # --- DNS Check ---
     set -l CONFIG_DNS_ENABLED true
